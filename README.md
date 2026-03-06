@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @harsh62h
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Harsh Raj (Harshzynx) 👋
 
-<!---
-harsh62h/harsh62h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👨‍💻 About Me
+- 🚀 I'm a Developer passionate about building cool projects.
+- 🎓 Learning and growing every day in the world of Tech.
+- 🛠️ Currently working on improving my portfolio and GitHub presence.
+- 📫 How to reach me: [Your Email or Social Link]
+
+### 🛠 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,python)
+
+### 📊 GitHub Stats
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshzynx&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshzynx&layout=compact&theme=radical)
+
+---
+*“Coding is not just about syntax, it’s about solving problems.”*
